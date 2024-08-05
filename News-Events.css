@@ -58,3 +58,9 @@ hr {
 .heading2 {
     color: #00633E;
 }
+
+/* style to center the text on the hero image */
+#centerThetext {
+    bottom: 40%;
+
+}

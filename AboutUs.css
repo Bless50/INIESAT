@@ -62,3 +62,10 @@ hr {
         /* For tablets and smaller screens */
     }
 }
+
+
+/* style to center the text on the hero image */
+#centerThetext {
+    bottom: 40%;
+
+}
