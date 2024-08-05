@@ -1,8 +1,4 @@
-/*
- css stands for cascading styling sheet used to make webpages beautiful
-  css style for the main page which is homepage of the website
-  index.html is homepage of the website.
-*/
+
 
 /* the style below are to work for the entire body of the page*/
 body {
@@ -43,6 +39,6 @@ hr {
 
 /* style to center the text on the hero image */
 #centerThetext {
-    bottom: 40%;
+    bottom: 30%;
 
 }
